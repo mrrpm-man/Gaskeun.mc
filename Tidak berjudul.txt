@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gaskeun Mc</title>
+    </head>
+    <body>
+        <h1>Gaskeun Mc</h1>
+        <p>Gaskeun Mc adalah youtuber yang sudah hilang,berikut link nya:</p>
+        <a href="https://youtube.com/@gaskeunmc?si=9bTdfTSC83ULxobl">Link Gaskeun Mc</a>
+    </body>
+</html>
